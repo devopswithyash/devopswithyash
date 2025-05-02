@@ -21,7 +21,7 @@ I'm a **Site Reliability Engineer (SRE)** and **DevOps Engineer** with 4+ years 
 ---
 
 ### ☕ Support My Work
-If you like what I build or share, you can [buy me a coffee](https://buymeacoffee.com/devopswithyash) ☕  
+If you like what I build or share, you can [buy me a coffee](https://buymeacoffee.com/yashsonar) ☕  
 Your support helps me keep sharing, teaching, and building.
 
 ---
