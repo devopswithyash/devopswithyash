@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hey, I'm Yash Sonar
 
-<!--
-**devopswithyash/devopswithyash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Site Reliability Engineer (SRE)** and **DevOps Engineer** with 4+ years of experience automating cloud infrastructure and CI/CD pipelines.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 What I Work With
+- ☁️ **Cloud**: AWS (Solutions Architect), Azure (AZ-104), currently pursuing CKA
+- 🛠️ **Tools**: Jenkins, Tekton, Terraform, Ansible, GitHub Actions, Helm
+- 🐧 **Linux**: Deep system knowledge, scripting, tuning
+- 📦 **Messaging & Databases**: Kafka, Zookeeper, RabbitMQ, MongoDB, ElasticSearch
+- 📈 **Monitoring**: Prometheus, Grafana, ELK Stack
+
+---
+
+### 💡 What I'm Working On
+- Sharing DevOps tips, projects, and certification prep
+- Creating labs in Kubernetes, IaC, and GitOps
+- Building resources for new DevOps learners
+
+---
+
+### ☕ Support My Work
+If you like what I build or share, you can [buy me a coffee](https://buymeacoffee.com/devopswithyash) ☕  
+Your support helps me keep sharing, teaching, and building.
+
+---
+
+### 📫 Connect With Me
+- [LinkedIn](www.linkedin.com/in/yash-sonar-63345218b)
+- [GitHub](https://github.com/devopswithyash)
+
+---
+
+Thanks for stopping by! 🚀
